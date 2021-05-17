@@ -5,3 +5,5 @@ Thanks for entrusting GitHub Inc. (“GitHub”, “we”) with your source code
 
 We will be removing API Authentication via Query Parameters.
 
+Using the Hello World guide.
+
